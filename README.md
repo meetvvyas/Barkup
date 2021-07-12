@@ -1,2 +1,1 @@
-# Barkup
-a dog meetup place
+TinDog Starting Files

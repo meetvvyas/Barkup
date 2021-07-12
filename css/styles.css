@@ -1,0 +1,133 @@
+#title
+{
+  background-color:#ff4c68;
+  overflow: hidden;
+
+}
+
+#iphone
+{
+  position: relative;
+  transform: rotate(20deg);
+  padding:10% 0 20% 10%;
+  margin-bottom:-50%;
+  width:70%;
+  margin-top:1px;
+  overflow: hidden;
+}
+a{
+  text-decoration: none;
+}
+body {
+  font-family: "Montserrat";
+}
+h1 {
+  font-family: "Montserrat";
+  color:white;
+  font-size:4rem;
+  line-height:1.5;
+  margin:80px 0 50px ;
+}
+
+h2{
+  color:white;
+  padding: 5% 20% 0;
+  font-size: 300%;
+}
+
+h3{
+  text-align: center;
+  font-size:30px;
+  margin-bottom:5%;
+}
+p{
+  width:60%;
+  text-align: center;
+  font-family: sans-serif;
+  margin: auto;
+  font-size:20px;
+}
+
+.container-fluid{
+  padding:3% 15%;
+}
+
+.btn-outline-light{
+  border:solid 2px;
+  margin-left:10px;
+}
+
+.fa-apple{
+  padding-right:9px;
+}
+
+.fa-google-play{
+  padding-right:9px;
+}
+
+.navbar-brand{
+  font-family: "Montserrat";
+  font-size:3.5rem;
+  padding-left:0;
+}
+.navbar-nav{
+  margin-left:40%;
+}
+
+.nav-link{
+  color:#EDF6E5;
+  font-size:2rem;
+  margin:5px 40px 5px;
+}
+
+.fa-check-circle{
+  margin:auto;
+  text-align: center;
+  color:orange;
+  width:100%;
+  padding-top: 10px;
+}
+.fa-bullseye{
+  margin:auto;
+  text-align: center;
+  color:orange;
+  width:100%;
+  padding-top: 10px;
+}
+.fa-heart{
+  margin:auto;
+  text-align: center;
+  color:orange;
+  width:100%;
+  padding-top: 10px;
+}
+.fas{
+  padding-bottom: 20px;
+}
+.fas:hover{
+  color:red;
+}
+#features{
+  background-color:#EEEEEE;
+  padding:5% 0;
+}
+
+#testimonials{
+  text-align:center;
+  background-color:#ff4c68;
+}
+#press{
+  background-color:#ff4c68;
+  text-align:center;
+}
+
+.dogimage{
+  width:250px;
+  border-radius:50%;
+  padding:20px;
+
+}
+.press{
+  padding:5% 2% 5%;
+  width:300px;
+}
